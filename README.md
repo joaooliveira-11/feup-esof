@@ -1,3 +1,14 @@
+# ESOF Project
+
+>**Project**
+>Curricular Unit: [Engenharia de Software](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501679), 2nd year
+
+## Objectives
+
+Developement of a cross-platform mobile application using Flutter framework, powered by the Dart programming language
+
+### Report
+
 Porto Explorer Development Report
 
 Welcome to the documentation pages of the Porto Explorer
