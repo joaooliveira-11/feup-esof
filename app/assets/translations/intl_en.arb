@@ -1,0 +1,44 @@
+{
+  "@@locale": "en",
+  "name": "Name",
+  "username": "Username",
+  "email": "Email",
+  "password": "Password",
+  "confirm password": "Confirm Password",
+  "emailInUse":"Email Already in Use",
+  "emailInUseMessage": "The email you entered is already registered. Please sign in or use a different email.",
+  "passwordDoNotMatch": "Passwords Do Not Match",
+  "passwordDoNotMatchMessage": "The passwords you entered do not match. Please try again.",
+  "incorrectPassword" : "Incorrect Password",
+  "incorrectPasswordMessage": "The password you entered is incorrect. Please try again.",
+  "userNotFound": "User Not Found" ,
+  "userNotFoundMessage": "The email you entered is not registered. Please sign up.",
+  "singUp": "Sign Up",
+  "dontHaveAnAccount": "Don't have an account? ",
+
+  "alreadyAccount": "Already have an account? ",
+  "signIn": "Sign In",
+
+  "activity": "Activity",
+  "visited": "Visited",
+  "logOut": "Log Out",
+
+  "piVisited": "points of interest visited",
+  "points": "points",
+
+  "nearby": "Nearby you:",
+  "recommended": "Recommended:",
+  "travel":"Travel through Porto!",
+
+  "rating":"Rating",
+  "reviews":"Reviews",
+  "directions": "Directions",
+
+  "home":"Home",
+  "maps": "Maps",
+  "profile": "Profile",
+
+  "logInUC": "LOG IN",
+  "singUpUC":"SIGN UP"
+
+}

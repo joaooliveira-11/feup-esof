@@ -1,0 +1,43 @@
+{
+  "@@locale": "pt",
+  "name": "Nome",
+  "username": "Nome de utilizador",
+  "email": "Correio eletronico",
+  "password": "Palavra-passe",
+  "confirm password": "Confirmar palavra-passe",
+  "emailInUse": "Email já utilizado",
+  "emailInUseMessage": "O email que inseriu já está registado. Por favor, faça login ou utilize um email diferente.",
+  "passwordDoNotMatch": "As palavras-passe não coincidem",
+  "passwordDoNotMatchMessage": "As palavras-passe que inseriu não coincidem. Por favor, tente novamente.",
+  "incorrectPassword": "Palavra-passe incorreta",
+  "incorrectPasswordMessage": "A palavra-passe que inseriu está incorreta. Por favor, tente novamente.",
+  "userNotFound": "Utilizador não encontrado",
+  "userNotFoundMessage": "O email que inseriu não está registado. Por favor, registe-se.",
+  "signUp": "Registar",
+  "dontHaveAnAccount": "Não tem uma conta?",
+
+  "alreadyAccount": "Já tem uma conta? ",
+  "signIn": "Entrar",
+
+  "activity": "Atividade",
+  "visited": "Visitado",
+  "logOut": "Terminar sessão",
+
+  "piVisited": "pontos de interesse visitados",
+  "points": "pontos",
+
+  "nearby": "Perto de si:",
+  "recommended": "Recomendado:",
+  "travel": "Viaja pelo Porto!",
+
+  "rating": "Classificação",
+  "reviews": "Avaliações",
+  "directions": "Direções",
+
+  "home": "Casa",
+  "maps": "Mapa",
+  "profile": "Perfil",
+
+  "logInUC": "ENTRAR",
+  "singUpUC": "REGISTAR"
+}
